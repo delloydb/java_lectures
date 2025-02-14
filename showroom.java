@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// i) Base class Vehicle
+//  Base class Vehicle
 class Vehicle {
     private String brand;
     private String model;
